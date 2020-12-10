@@ -22,16 +22,16 @@
    foaf:name "Guillermo Martínez" ;
    foaf:givenName "Guillermo" ;
    foaf:familyName "Martínez" ;
-   foaf:img <http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/84/84eeaa49b2c8395114176bb7d8b3e9a7245ee35d_full.jpg>
-   foaf:homepage <http://steamcommunity.com/id/wiwillym/>
+   foaf:img <http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/84/84eeaa49b2c8395114176bb7d8b3e9a7245ee35d_full.jpg> ;
+   foaf:homepage <http://steamcommunity.com/id/wiwillym/> ;
    foaf:age 23 ;
    foaf:knows <http://users.dcc.uchile.cl/~dhernand/foaf.ttl#dh> , <http://anakena.dcc.uchile.cl/~jasalas/web/foaf.ttl#me> , <http://users.dcc.uchile.cl/~ahogan/foaf.ttl#ah>, <http://raw.githubusercontent.com/DaniferMoreno/Lab-9/main/foaf.ttl#dmc> , <http://users.dcc.uchile.cl/~bhurtado/foaf.ttl#bh> ;
-   social:hasEnemy <http://users.dcc.uchile.cl/~ahogan/foaf.ttl#ah> , <>;
+   social:hasEnemy <http://users.dcc.uchile.cl/~ahogan/foaf.ttl#ah> , <https://raw.githubusercontent.com/danielbravol/CC7220-Lab9/master/foaf.ttl#db> ;
    foaf:interest wd:Q54837 , wd:Q47221 , wd:Q1405126 , wd:Q842146, wd:Q11660, wd:Q24666782;
    social:hasSpiritAnimal wd:Q2102 ;
-   foaf:myersBriggs "ISTP" .
-   foaf:nick "Willy" 
-   gndo:placeOfBirth wd:Q2887 .
+   foaf:myersBriggs "ISTP" ;
+   foaf:nick "Willy" ;
+   gndo:placeOfBirth wd:Q2887 ;
    gndo:gender wd:Q6581097 .
 
 
